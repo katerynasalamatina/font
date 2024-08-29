@@ -1,7 +1,7 @@
 {
    "name" : "Sofia Pro theme component",
-   "about_url" : "",
-   "license_url": "",
+   "about_url" : "https://github.com/katerynasalamatina/font",
+   "license_url": "https://github.com/katerynasalamatina/font/blob/main/LICENSE",
    "assets": {
         "sofia-pro": "assets/Sofia-Pro-Regular-Az.otf"
    }
