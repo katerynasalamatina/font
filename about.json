@@ -1,0 +1,8 @@
+{
+   "name" : "Sofia Pro theme component",
+   "about_url" : "",
+   "license_url": "",
+   "assets": {
+        "sofia-pro": "assets/Sofia-Pro-Regular-Az.otf"
+   }
+}
